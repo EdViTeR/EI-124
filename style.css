@@ -51,8 +51,30 @@ header a:hover {
 }
 
 .profile p {
-  color: #666;
+  color: #777;
   line-height: 1.6;
+}
+
+.hobbies {
+  margin-top: 30px;
+}
+
+.hobbies h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.hobbies ul {
+  list-style: none;
+  padding: 0;
+}
+
+.hobbies ul li {
+  background-color: #f0f0f0;
+  margin: 5px auto;
+  padding: 10px;
+  max-width: 400px;
+  border-radius: 5px;
 }
 
 footer {
